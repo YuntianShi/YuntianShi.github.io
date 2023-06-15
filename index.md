@@ -4,7 +4,7 @@ layout: page
 
 ## 个人介绍
 
-<img src="https://yuntianshi.github.io/shiyuntian.jpg" class="floatpic" width="300" height="400">
+<img src="https://yuntianshi.github.io/shiyuntian.jpg" class="floatpic" width="180" height="240">
 
 我是 **石云天**，来自天津大学未来技术学院的一名大三本科生，专业是**计算机科学与技术**，辅修**工商管理**双学位。本科期间，我先后跟随天津大学智能与计算学部[李坤教授](http://cic.tju.edu.cn/faculty/likun/index.html)与[张蕾教授](http://cic.tju.edu.cn/faculty/zhanglei/index.htm)进行科研学习工作，倍感荣幸！这是我的[个人简历](https://yuntianshi.github.io/file/Resume-YuntianShi.pdf).
 
