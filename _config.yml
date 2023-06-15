@@ -1,26 +1,19 @@
-title: Hanlin Cai
+title: 石云天
 # tagline: Two roads diverged in woods, I took the one less traveled by.
 description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://yuntianshi.github.io
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: 石云天
+  avatar: yuntian.jpg
 #  bio:
-  email: hanlin.cai@ieee.org
+  email: yuntian_shi5015@tju.edu.cn
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  twitter: lancecai2002
-  # facebook: caihanlin2002
-  github: GuangLun2000
-  linkedin: hanlin-cai-07b53b23b
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
+  twitter: michealshi2002
+  github: YuntianShi
+  Wechat: 2892467752
 
 # Analytics and webmaster tools stuff goes here
 # https://search.google.com/search-console/ownership
@@ -32,18 +25,18 @@ google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: 主页
     url: /
-  - title: Publications
+  - title: 学业
+    url: /study/
+  - title: 论文
     url: /publications/
-  - title: Projects
+  - title: 项目
     url: /projects/
-  - title: Awards
-    url: /awards/
-  - title: Hobbies
+  - title: 荣誉
+    url: /awards-zh/
+  - title: 课余
     url: /hobbies/
-  - title: Blogs
-    url: /blogs/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
@@ -75,11 +68,11 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: michealshi
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
 
-# Latest update in 2023/05/01 by Hanlin Cai.
-# URL: https://caihanlin.com/
+# Latest update in 2023/06/16 by Yuntian Shi.
+# URL: https://yuntianshi.github.io/

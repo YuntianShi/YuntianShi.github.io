@@ -4,20 +4,34 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-# Publications
+# 论文成果
 
-Lastest Update: 9th May 2023&nbsp;  [中文 (Chinese Version)](https://caihanlin.com/publications-zh/)
 
-## Conference Paper
+## 竞赛论文
 
-- [Deep Residual Neural Network for Efficient Traffic Sign Detection](https://caihanlin.com/mypaper/202302ICAROB.pdf)<br>**Hanlin Cai**, Zheng Li, Jiaqi Hu, Wei Hong Lim, Sew Sun Tiang, Mastaneh Mokayef, Chin Hong Wong<br>28th International Conference on Artificial Life and Robotics<br>Beppu, Japan. February, 2023. [Slides](https://caihanlin.com/mypaper/slides/2023-ICAROB-Pre.pdf).
 
-- [An IoT Garbage Monitoring System for Effective Garbage Management](https://caihanlin.com/mypaper/202208cenim.pdf)<br>**Hanlin Cai**, Jiaqi Hu, Zheng Li, Wei Hong Lim, Mastaneh Mokayef, Chin Hong Wong<br>4th International Conference on Computer Engineering, Network and Intelligent Multimedia<br>Surabaya, Indonesia. November, 2022. [Slides](https://caihanlin.com/mypaper/slides/2022-CENIM-Pre-v2.pdf), [Talk](https://youtu.be/-XIMa5-SaTk/).
+- [不同条件下种间竞争对真菌分解速率影响的研究 (英文)](https://yuntianshi.github.io/mypaper/2115295.pdf)<br>**石云天**，王郅伟，刘宇轩，关静 (指导老师)<br>2021年02月美国大学生数学建模竞赛二等奖Honorable Mention
 
-## Competition Paper
+  
 
-- [Reshape the Crowning Glory of Maasai Mara](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**Hanlin Cai**, Yufei Wu, Wenxuan Luo, Zhezhuang Xu<br>Mathematical Contest In Modeling (Consortium for Mathematics and Its Applications)<br>**Finalist Award** (Top 1% of all 20858 paper)
+- [基于LSTM与综合交易决策模型的黄金-比特币投资策略分析(英文)](https://yuntianshi.github.io/mypaper/2208871.pdf)<br>**石云天**，郭永楗，西热力江<br>2022年02月美国大学生数学建模竞赛二等奖Honorable Mention
 
-## Working Paper
+  
 
-- RMS Testbed for IoT Cybersecurity Using Machine Learning Based Approach. [The latest manuscript](https://caihanlin.com/mypaper/202210camb.pdf) (29th Dec 2022)
+- [基于LSTM与WOA优化网络的Wordle解题策略分析(英文)](https://yuntianshi.github.io/mypaper/2322318.pdf)<br>**石云天**，李嘉树，周艺梵<br>2023年02月美国大学生数学建模竞赛论文
+
+  
+
+- [基于成分分析的古代玻璃制品分析与鉴别模型](https://yuntianshi.github.io/mypaper/202202002096.pdf)<br>**石云天**，姜卓雨，袁萌启<br>2022年09月全国大学生数学建模竞赛天津赛区二等奖
+
+## 结课论文
+
+  
+
+- [基于Pytorch对图神经网络GCN、SGC的实现、比较与改进](https://yuntianshi.github.io/mypaper/2022121.pdf)<br>**石云天**<br>2022年12月《深度学习与神经网络》结课论文
+
+
+  
+
+- [《Generative Image Inpainting with Contextual Attention》论文复现](https://yuntianshi.github.io/mypaper/2022122.pdf)<br>**石云天**，袁萌启，王寅合，李贺航<br>2022年12月《图像处理》结课论文
+

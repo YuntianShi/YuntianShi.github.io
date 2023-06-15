@@ -2,21 +2,18 @@
 layout: page
 ---
 
-# About Me
+# 主页
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://yuntianshi.github.io/shiyuntian.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+我是 **石云天**，来自天津大学未来技术学院的一名大三本科生，专业是**计算机科学与技术**，辅修**工商管理**双学位。本科期间，我先后跟随天津大学智能与计算学部[李坤教授](http://cic.tju.edu.cn/faculty/likun/index.html)与[张蕾教授](http://cic.tju.edu.cn/faculty/zhanglei/index.htm)进行科研学习工作，倍感荣幸！这是我的[个人简历](https://yuntianshi.github.io/file/Resume-YuntianShi.pdf).
 
-I am a junior majoring in **Automation** at Fuzhou University and **Robotics & Intelligent Devices** at Maynooth University (Ireland, Combined Degrees). I am extremely fortunate to be advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/info/1102/3547.htm) and [Dr. Chin Hong Wong](https://www.researchgate.net/profile/Chin-Hong-Wong). Here is [my Resume](https://caihanlin.com/file/Resume-HanlinCAI.pdf).
+## 现状
 
-## Research Interests
+我目前预计可以获得研究生推免资格，希望获得一个**国内顶尖大学的硕士/博士席位**，希望得到老师的考虑，十分感谢！
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+## 最新动态
 
-## News and Updates
-
-- **<font color='red'>[News]</font> I am looking for PhD to start in [Fall 2024 & 2025]. Contact me if you have any leads!**
 - **May 2023：**Happy to be awarded the XiamenAir Scholarship.
 - **May 2023：**Happy to win the Finalist Award in MCM 2023.
 - **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
