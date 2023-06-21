@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /study/index.html
+title: Study
 ---
 
 # Hobbies
