@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/index.html
-title: Awards
+title: 荣誉
 ---
 
 ## 荣誉证书

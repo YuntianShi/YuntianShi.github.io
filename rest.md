@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /rest/index.html
-title: Rest
+title: 课余
 ---
 
 # 课余生活
