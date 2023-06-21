@@ -6,6 +6,8 @@ title: Projects
 
 # 项目经历
 
+P.S.,点击项目标题即可访问对应仓库。<br>
+
 #### [智能循迹投放物流车](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car)
 
 <center>

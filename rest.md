@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /hobbies/index.html
-title: Hobbies
+permalink: /rest/index.html
+title: Rest
 ---
 
 # 课余生活

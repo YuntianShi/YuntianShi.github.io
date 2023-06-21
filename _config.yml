@@ -34,9 +34,9 @@ links:
   - title: 项目
     url: /projects/
   - title: 荣誉
-    url: /awards-zh/
+    url: /awards/
   - title: 课余
-    url: /hobbies/
+    url: /rest/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
