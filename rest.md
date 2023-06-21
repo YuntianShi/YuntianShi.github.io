@@ -9,9 +9,9 @@ title: Rest
 ## 志愿服务
 
 <div class="third">
-<img src="/images/zy1.PNG">
-<img src="/images/zy2.PNG">
-<img src="/images/zy3.JPG">
+<img src="https://github.com/YuntianShi/YuntianShi.github.io/blob/main/images/zy1.png">
+<img src="https://github.com/YuntianShi/YuntianShi.github.io/blob/main/images/zy2.png">
+<img src="https://github.com/YuntianShi/YuntianShi.github.io/blob/main/images/zy3.jpg">
 </div>
 <br>热心志愿服务，累计志愿时长超100小时，大一期间跟随天津大学求是学部“为食尚枣”实践队前往天津市滨海新区友爱村开展支教活动，并帮助当地枣农通过电商提高当地特色冬枣销量；大二期间跟随天津大学未来技术学院“科道乘流”实践队前往河南省三门峡市陕州一高展开“求索启航”科学夏令营，为当地中小学生埋下科技创新的种子。
 
@@ -19,9 +19,9 @@ title: Rest
 ## 文艺体育
 
 <div class="third">
-<img src="/images/wt1.PNG">
-<img src="/images/wt2.JPG">
-<img src="/images/wt3.JPG">
+<img src="https://github.com/YuntianShi/YuntianShi.github.io/blob/main/images/wt1.png">
+<img src="https://github.com/YuntianShi/YuntianShi.github.io/blob/main/images/wt2.jpg">
+<img src="https://github.com/YuntianShi/YuntianShi.github.io/blob/main/images/wt3.jpg">
 </div>
 <br>文艺方面，自幼学习电子琴，通过八级水平考试，大学期间加入未来技术学院求音合唱团，获得天津大学合唱节铜奖；体育方面，爱好乒乓球与篮球，跟随未来技术学院篮球队获得天津大学“新生杯”篮球赛第三名等荣誉。
 
