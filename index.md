@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://yuntianshi.github.io/shiyuntian.jpg" class="floatpic" width="180" height="240">
 &nbsp;
-我是**石云天**,来自天津大学未来技术学院的一名大三本科生，专业是**计算机科学与技术**，辅修**工商管理**双学位。本科期间，我先后跟随天津大学智能与计算学部[李坤教授](http://cic.tju.edu.cn/faculty/likun/index.html)与[张蕾教授](http://cic.tju.edu.cn/faculty/zhanglei/index.htm)进行科研学习工作，倍感荣幸！这是我的[个人简历](https://yuntianshi.github.io/file/Resume-YuntianShi.pdf).
+我是**石云天**,来自天津大学未来技术学院的一名大三本科生，专业是**计算机科学与技术**，辅修**工商管理**双学位。本科期间，我先后跟随天津大学智能与计算学部[李坤](http://cic.tju.edu.cn/faculty/likun/index.html)教授与[张蕾](http://cic.tju.edu.cn/faculty/zhanglei/index.htm)教授进行科研学习工作，倍感荣幸！这是我的[个人简历](https://yuntianshi.github.io/file/Resume-YuntianShi.pdf).
 
 ## 现状
 
@@ -14,10 +14,11 @@ layout: page
 
 ## 最新动态
 
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at Key Laboratory of Industrial Automation Control Technology and Information Processing, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+- **May 2023：**在[张蕾](http://cic.tju.edu.cn/faculty/zhanglei/index.htm)教授指导下，领导并进行大学生创新创业计划省部级项目[**基于商用Wi-Fi的连续手语语句识别系统**]。
+- **Feb 2023：**在[李坤](http://cic.tju.edu.cn/faculty/likun/index.html)教授与清华大学[刘烨斌](https://www.au.tsinghua.edu.cn/info/1166/3336.htm)教授指导下，与实验室硕士生一起开展[**基于音频的演讲者表情与躯干动作生成算法**]相关工作。
+- **May 2022：**在[王攀峰](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1810)教授指导下，领导并完成项目[仿生扑翼飞行机器人](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft)。
+- **May 2022：**在[吕伟杰](http://seea.tju.edu.cn/info/1126/2117.htm)老师指导下，领导并完成项目[智能越障抓取履带机器人](https://github.com/YuntianShi/Intelligent-Handling-Crawler-Robot)。
+- **May 2022：**在[李坤](http://cic.tju.edu.cn/faculty/likun/index.html)教授指导下，领导并完成大学生创新创业计划省部级项目[**面向元宇宙应用的多人交互场景重建与生成**]。
+- **Dec 2021：**被评为[**天津大学三好学生**]。
+- **Jun 2021：**在[陈曦](http://faculty.tju.edu.cn/050054/zh_CN/index.htm)老师指导下，领导并完成项目[基于麦克纳姆轮的全方位移动小车](https://github.com/YuntianShi/Omnidirectional-Moving-Robot)。
+- **Jun 2021：**在[康荣杰](http://me.tju.edu.cn/faculty_teachers.action?cla=5&teacherid=1852)教授指导下，领导并完成项目[智能循迹投放物流车](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car)。

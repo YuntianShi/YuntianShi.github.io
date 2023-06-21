@@ -4,36 +4,34 @@ permalink: /projects/index.html
 title: Projects
 ---
 
-# Research Projects
+# 项目经历
 
-P.S., click the hyperlink title to access the source.<br>
-
-#### [ResNet-AHP: Feedback ResNet-50 for TSD](https://caihanlin.com/mypaper/202302ICAROB.pdf)
+#### [智能循迹投放物流车](https://github.com/YuntianShi/Intelligent-Logistics-Tracking-Car)
 
 <center>
-<img src="/images/resnet-ahp.png">
+<img src="/images/design.jpg">
 </center>
 <br>
 
-#### [Multi-objective Optimization Strategy Model (MCM-2023)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)
+#### [基于麦克纳姆轮的全方位移动小车](https://github.com/YuntianShi/Omnidirectional-Moving-Robot)
 
 <center>
-<img src="/images/MCM-figure3.jpg">
+<img src="/images/3Ddesign.jpg">
 </center>
 <br>
 
-#### [OpenIoT: Industrial Inspection System (Web)](https://fzuiot.site/)
+#### [智能越障抓取履带机器人](https://github.com/YuntianShi/Intelligent-Handling-Crawler-Robot)
 
 <center>
-<img src="/images/openiot-system.png">
+<img src="/images/real.jpg">
 </center>
 
 <br>
 
-#### [CityManager: Community Monitoring System](https://caihanlin.com/mypaper/202208cenim.pdf )
+#### [仿生扑翼飞行机器人](https://github.com/YuntianShi/Bionic-Flapping-Wing-Aircraft)
 
 <center>
-<img src="/images/iot-manager.png">
+<img src="/images/3D1.jpg">
 </center>
 <br>
 
@@ -41,18 +39,20 @@ P.S., click the hyperlink title to access the source.<br>
 
 ---
 
-# Open-source Projects
+# 课程共享
 
 <br>
 
-#### [FZU-Flying-Book 福州大学飞跃手册](https://fzu-fly.online/)
+#### [TJU-03313-数据结构](https://github.com/YuntianShi/Course-Sharing-DS)
 
-This is the flying handbook for FZU students. Many outstanding graduates of Fuzhou University leave their unique experiences, valuable wisdom, and sincere wishes in this flying-handbook.
+#### [TJU-03314-计算机系统基础](https://github.com/YuntianShi/Course-Sharing-Computer_System_Basis)
 
-#### [FZU-LaTeX-template 精美学术模版](https://github.com/GuangLun2000/FZU-latex-template)
+#### [TJU-03891-数据库原理](https://github.com/YuntianShi/Course-Sharing-Database)
 
-Many elegant LaTeX templates designed for FZU students, including Beamer Theme Slides, Recommendation Letters and Undergraduate Thesis Template.
+#### [TJU-01400-算法设计与分析](https://github.com/YuntianShi/Course-Sharing-Algorithm)
 
-#### [miec-lance 自动化系修读材料](https://github.com/GuangLun2000/miec-lance )
+#### [TJU-02289-操作系统原理](https://github.com/YuntianShi/Course-Sharing-OS)
 
-This repo is where I keep track of my incredible journey at FZU-MIEC. You can learn RIDS & CSEE better by refering to this repo, but **please do not directly copy my assignments, codes and any reports!**
+#### [TJU-01879-计算机网络](https://github.com/YuntianShi/Course-Sharing-Network)
+
+
