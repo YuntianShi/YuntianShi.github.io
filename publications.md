@@ -14,7 +14,7 @@ title: Publications
 
   
 
-- [基于LSTM与综合交易决策模型的黄金-比特币投资策略分析(英文)](https://yuntianshi.github.io/mypaper/2208871.pdf)<br>**石云天**，郭永楗，西热力江<br>2022年02月美国大学生数学建模竞赛二等奖Honorable Mention
+- [基于LSTM与综合交易决策模型的黄金-比特币投资策略分析(英文)](https://yuntianshi.github.io/mypaper/2208871.pdf)<br>**石云天**，郭永楗，阿不都沙拉木<br>2022年02月美国大学生数学建模竞赛二等奖Honorable Mention
 
   
 
