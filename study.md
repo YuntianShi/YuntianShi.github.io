@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /study/index.html
-title: 学业
+title: Study
 ---
 
 # 学业生涯

@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/index.html
-title: 论文
+title: Publications
 ---
 
 # 论文成果

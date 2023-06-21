@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /projects/index.html
-title: 项目
+title: Projects
 ---
 
 # 项目经历
